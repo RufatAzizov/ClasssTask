@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\bin\Debug\net6.0\GeseyTaskNerminden.exe
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\bin\Debug\net6.0\GeseyTaskNerminden.deps.json
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\bin\Debug\net6.0\GeseyTaskNerminden.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\bin\Debug\net6.0\GeseyTaskNerminden.dll
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\bin\Debug\net6.0\GeseyTaskNerminden.pdb
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.dll
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\refint\GeseyTaskNerminden.dll
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.pdb
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\GeseyTaskNerminden.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\GeseyTaskNerminden\GeseyTaskNerminden\obj\Debug\net6.0\ref\GeseyTaskNerminden.dll
