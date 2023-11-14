@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmPFsbJZ4bAynqhE44BxyuvqPeuYHmc6/Dc+17cCw3DkMhLeg/I8UnOEBLxCB3RpEo8orXIR5Y4SY11v3HbZrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Birinci Novbe\\Desktop\\ConsoleApp1900\\ConsoleApp1900\\ConsoleApp1900.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Birinci Novbe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

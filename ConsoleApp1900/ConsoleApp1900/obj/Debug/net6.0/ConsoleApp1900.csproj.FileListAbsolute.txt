@@ -1,0 +1,17 @@
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\ConsoleApp1900.exe
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\ConsoleApp1900.deps.json
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\ConsoleApp1900.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\ConsoleApp1900.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\ConsoleApp1900.pdb
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\refint\ConsoleApp1900.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.pdb
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ref\ConsoleApp1900.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp1900\ConsoleApp1900\obj\Debug\net6.0\ConsoleApp1900.csproj.CopyComplete
