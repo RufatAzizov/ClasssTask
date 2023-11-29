@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="wwwroot\Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\assets\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\assets\.vs\assets\v17\" />
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\.vs\assets\FileContentIndex\b1df6a32-7061-4167-9316-b751e5a9847a.vsidx" />
+    <None Include="wwwroot\assets\.vs\slnx.sqlite" />
+    <None Include="wwwroot\assets\demo\chart-area-demo.js" />
+    <None Include="wwwroot\assets\demo\chart-bar-demo.js" />
+    <None Include="wwwroot\assets\demo\chart-pie-demo.js" />
+    <None Include="wwwroot\assets\demo\datatables-demo.js" />
+    <None Include="wwwroot\assets\img\error-404-monochrome.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+</Project>
