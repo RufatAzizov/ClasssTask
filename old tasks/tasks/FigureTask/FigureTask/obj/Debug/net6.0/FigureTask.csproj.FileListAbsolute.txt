@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\bin\Debug\net6.0\FigureTask.exe
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\bin\Debug\net6.0\FigureTask.deps.json
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\bin\Debug\net6.0\FigureTask.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\bin\Debug\net6.0\FigureTask.dll
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\bin\Debug\net6.0\FigureTask.pdb
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.dll
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\refint\FigureTask.dll
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.pdb
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\FigureTask.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\FigureTask\FigureTask\obj\Debug\net6.0\ref\FigureTask.dll

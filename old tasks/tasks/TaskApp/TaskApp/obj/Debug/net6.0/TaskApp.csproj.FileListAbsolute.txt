@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\bin\Debug\net6.0\TaskApp.exe
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\bin\Debug\net6.0\TaskApp.deps.json
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\bin\Debug\net6.0\TaskApp.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\bin\Debug\net6.0\TaskApp.dll
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\bin\Debug\net6.0\TaskApp.pdb
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.dll
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\refint\TaskApp.dll
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.pdb
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\TaskApp.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\TaskApp\TaskApp\obj\Debug\net6.0\ref\TaskApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\bin\Debug\net6.0\Notebook task.exe
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\bin\Debug\net6.0\Notebook task.deps.json
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\bin\Debug\net6.0\Notebook task.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\bin\Debug\net6.0\Notebook task.dll
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\bin\Debug\net6.0\Notebook task.pdb
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.dll
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\refint\Notebook task.dll
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.pdb
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\Notebook task.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Notebook task\Notebook task\obj\Debug\net6.0\ref\Notebook task.dll

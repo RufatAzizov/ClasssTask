@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\bin\Debug\net6.0\ConsoleApp0311.exe
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\bin\Debug\net6.0\ConsoleApp0311.deps.json
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\bin\Debug\net6.0\ConsoleApp0311.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\bin\Debug\net6.0\ConsoleApp0311.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\bin\Debug\net6.0\ConsoleApp0311.pdb
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\refint\ConsoleApp0311.dll
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.pdb
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ConsoleApp0311.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\ConsoleApp0311\ConsoleApp0311\obj\Debug\net6.0\ref\ConsoleApp0311.dll

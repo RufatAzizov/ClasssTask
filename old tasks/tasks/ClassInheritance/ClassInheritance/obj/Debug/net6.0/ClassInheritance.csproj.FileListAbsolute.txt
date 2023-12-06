@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\bin\Debug\net6.0\ClassInheritance.exe
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\bin\Debug\net6.0\ClassInheritance.deps.json
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\bin\Debug\net6.0\ClassInheritance.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\bin\Debug\net6.0\ClassInheritance.dll
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\bin\Debug\net6.0\ClassInheritance.pdb
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.dll
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\refint\ClassInheritance.dll
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.pdb
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ClassInheritance.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\ClassInheritance\ClassInheritance\obj\Debug\net6.0\ref\ClassInheritance.dll

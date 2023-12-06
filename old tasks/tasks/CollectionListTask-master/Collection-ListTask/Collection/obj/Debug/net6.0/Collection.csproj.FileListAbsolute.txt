@@ -1,0 +1,22 @@
+C:\Users\User\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\User\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\User\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\User\Collection-ListTask\Collection\obj\Debug\net6.0\ref\Collection.dll
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\Birinci Novbe\Desktop\CollectionListTask-master\Collection-ListTask\Collection\obj\Debug\net6.0\ref\Collection.dll

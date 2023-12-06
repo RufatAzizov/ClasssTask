@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\bin\Debug\net6.0\Ksat.exe
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\bin\Debug\net6.0\Ksat.deps.json
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\bin\Debug\net6.0\Ksat.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\bin\Debug\net6.0\Ksat.dll
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\bin\Debug\net6.0\Ksat.pdb
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.dll
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\refint\Ksat.dll
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.pdb
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\Ksat.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Tuuuple\Ksat\obj\Debug\net6.0\ref\Ksat.dll

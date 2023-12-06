@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\bin\Debug\net6.0\DelegatesTask1.exe
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\bin\Debug\net6.0\DelegatesTask1.deps.json
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\bin\Debug\net6.0\DelegatesTask1.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\bin\Debug\net6.0\DelegatesTask1.dll
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\bin\Debug\net6.0\DelegatesTask1.pdb
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.dll
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\refint\DelegatesTask1.dll
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.pdb
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\DelegatesTask1.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\DelegatesTask1\DelegatesTask1\obj\Debug\net6.0\ref\DelegatesTask1.dll

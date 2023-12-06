@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\bin\Debug\net6.0\polindromNumberTask.exe
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\bin\Debug\net6.0\polindromNumberTask.deps.json
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\bin\Debug\net6.0\polindromNumberTask.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\bin\Debug\net6.0\polindromNumberTask.dll
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\bin\Debug\net6.0\polindromNumberTask.pdb
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.dll
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\refint\polindromNumberTask.dll
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.pdb
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\polindromNumberTask.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\polindromNumberTask\polindromNumberTask\obj\Debug\net6.0\ref\polindromNumberTask.dll

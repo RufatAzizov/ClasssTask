@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Builder;
+
 namespace PustokMVC
 {
     public class Program
@@ -16,15 +18,17 @@ namespace PustokMVC
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            
             app.UseStaticFiles();
 
-            app.UseRouting();
-
-            app.UseAuthorization();
+            app.MapControllerRoute(
+                name: "Admin",
+                pattern: "{area:exists}/{controller=Slider}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+            
 
             app.Run();
         }
